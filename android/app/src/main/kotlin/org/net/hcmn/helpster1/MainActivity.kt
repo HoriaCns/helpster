@@ -1,4 +1,4 @@
-package org.net.hcmn.helpster1
+package org.net.hcmn.helpster
 
 import io.flutter.embedding.android.FlutterActivity
 
